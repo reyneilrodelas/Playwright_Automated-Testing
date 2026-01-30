@@ -77,3 +77,4 @@ Test configuration can be modified in `playwright.config.ts`.
 
 - [Playwright Documentation](https://playwright.dev)
 - [Best Practices](https://playwright.dev/docs/best-practices)
+
